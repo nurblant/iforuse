@@ -1,6 +1,6 @@
 <?php
 /**
- * evolution-parser
+ * iforuse
  *
  * @category  parser
  * @version   1.0.0
