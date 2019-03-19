@@ -10,9 +10,9 @@
  */
 if (!defined('MODX_BASE_PATH')) {die('What are you doing? Get out of here!');}
 
-include_once ($modx->config["base_path"].'assets/snippets/evolution-parser/libs/phpQuery.php');
-include_once ($modx->config["base_path"].'assets/snippets/evolution-parser/libs/CakeMODx.class.php');
-include_once ($modx->config["base_path"].'assets/snippets/evolution-parser/libs/functions.php');
+include_once ($modx->config["base_path"].'assets/snippets/iforuse/libs/phpQuery.php');
+include_once ($modx->config["base_path"].'assets/snippets/iforuse/libs/CakeMODx.class.php');
+include_once ($modx->config["base_path"].'assets/snippets/iforuse/libs/functions.php');
 
 $autorsList = 'http://zonanot.ru/notespiano/classika';
 $startY = 21;
