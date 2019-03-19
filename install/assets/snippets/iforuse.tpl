@@ -1,8 +1,8 @@
 //<?php
 /**
- * evolution-parser
+ * iforuse
  *
- * My first parser
+ * My second parser
  *
  * @category 	snippet
  * @version 	1.0.0
@@ -12,4 +12,4 @@
  * @internal    @installset base, sample
  */
 
-return require MODX_BASE_PATH.'assets/snippets/evolution-parser/snippet.evolution-parser.php';
+return require MODX_BASE_PATH.'assets/snippets/iforuse/snippet.iforuse.php';
